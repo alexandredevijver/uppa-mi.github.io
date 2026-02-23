@@ -4,7 +4,10 @@ Bienvenue sur le site des étudiants de la double licence Mathématiques Informa
 
 ## Cours
 
-[PRÉ - Rappels](?cours=derivation). <br />
-[I - Logique, ensemble et raisonnements](?cours=logique). <br />
-[II - Suites et séries](?cours=suites). <br />
-[III - ](?cours=derivation). 
+[PRÉ - Rappels](?cours=rappels) <br />
+[I - Logique, ensemble et raisonnements](?cours=logique) <br />
+[II - Suites et séries](?cours=suites) <br />
+
+## Exercices
+
+## Corrections

@@ -123,3 +123,7 @@ html {
     padding: 40px 20px;
   }
 }
+
+a:visited {
+    color: blue;
+}
