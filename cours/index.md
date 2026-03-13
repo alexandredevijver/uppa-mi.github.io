@@ -5,8 +5,8 @@ Bienvenue sur le site des étudiants de la double licence Mathématiques Informa
 ## Cours
 
 [PRÉ - Rappels](?cours=rappels) <br />
-[I - Logique, ensemble et raisonnements](?cours=logique) <br />
-[II - Suites et séries](?cours=suites) <br />
+[I - Logique et ensembles](?cours=logique) <br />
+[II - Applications et relations binaires](?cours=applications) <br />
 
 ## Exercices
 
